@@ -1,6 +1,8 @@
 # Tvarkau Vilnių
 ## Intro/įžanga
 ### Lietuviškai
+
+[![Join the chat at https://gitter.im/ViliusKraujutis/tvarkau-vilniu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ViliusKraujutis/tvarkau-vilniu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Repozitorija naujos Android programėlės programiniam kodui.
 Visa tolimesnė vidinė komunikacija vyksta angliškai, nes komandoje yra ir užsieniečių.
 
